@@ -15,13 +15,13 @@ id
 
 body{
     background-color:#f4e8c1;
-    color: purple;
+    color: black;
 }
 h1{
     text-align: center;
 }
 p{
-    font-size: 18px;
+    font-size: 28px;
 }
 
 .center{
