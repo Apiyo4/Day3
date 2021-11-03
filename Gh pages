@@ -1,0 +1,8 @@
+master branch
+create a new branch gh-pages  - git branch gh-pages
+move to the branch - git checkout gh-pages
+push to the remote github pages - git push origin gh-pages
+go to online/remote repo
+go to settings
+go to a tab on the left side called pages
+you will see the link to your site
