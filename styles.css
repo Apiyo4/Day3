@@ -1,0 +1,33 @@
+/*
+
+selectors
+---------
+element or tag selector -> body, h1, p, ul, ol, strong, em, span
+class
+id
+*
+
+
+*/
+
+
+
+
+body{
+    background-color:#f4e8c1;
+    color: purple;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 18px;
+}
+
+.center{
+    width: 900px;
+    margin: 0 auto;
+}
+#underlined{
+    text-decoration: underline;
+}

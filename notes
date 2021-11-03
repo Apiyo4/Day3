@@ -1,0 +1,27 @@
+github branches
+github merge
+        feature
+app -> footer  , header, content
+
+
+
+main -> main / content
+master
+
+merge
+
+footer branch -> code
+header -> code
+content branch1
+
+content branch2
+
+gh-pages
+
+
+
+git branch nameOfYourBranch
+git checkout nameOfTheBranch
+
+
+git checkout -b nameOfYourBranch
